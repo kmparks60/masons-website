@@ -1,0 +1,14 @@
+body {
+    background: cornflowerblue;
+  }
+h1 {
+    color: khaki;
+    font-family: Georgia;
+    text-align: center;
+    font-size: 48px;
+}
+p {
+    color: rgb(226, 151, 124);
+    font-size: 24px;
+    text-align:center
+}
