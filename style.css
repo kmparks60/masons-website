@@ -5,10 +5,20 @@ h1 {
     color: khaki;
     font-family: Georgia;
     text-align: center;
+    font-weight: 500;
     font-size: 48px;
+    border-style: outset;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-width: 3px;
+    background: salmon;
+}
+h2 {
+    text-align: center;
+    color: bisque;
 }
 p {
-    color: rgb(226, 151, 124);
+    color: bisque;
     font-size: 24px;
-    text-align:center
+    text-align:center;
 }
